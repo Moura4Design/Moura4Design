@@ -1,6 +1,6 @@
 ## Hi, I'm Tânia Moura 👋
 
-**Frontend Developer** with over 5 years of international experience, focused on building modern, responsive, and user-centered web applications. I specialize in **React.js**, **JavaScript**, **HTML/CSS**, and API integration to enhance interactivity and performance.
+Frontend Developer with 5+ years of international experience. Specialized in React.js, JavaScript, HTML/CSS, and API integrations.
 ---
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, JavaScript, HTML, CSS, Bootstrap
@@ -19,7 +19,6 @@
 🔗 [My Portfolio](https://github.com/Moura4Design/my-portfolio)  
 🛒 [Shopping Cart App](https://github.com/Moura4Design/shopping-cart)  
 🎨 [Projecthub](https://github.com/Moura4Design/ProjectHub)  
-
 ✨ *More projects available on my GitHub!*
 ---
 ## 📬 Contact
