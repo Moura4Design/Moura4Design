@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Tânia Moura 👋
 
 <!--
 **Moura4Design/Moura4Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
