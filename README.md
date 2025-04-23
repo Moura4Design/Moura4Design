@@ -14,12 +14,6 @@ Frontend Developer with 5+ years of international experience. Specialized in Rea
 - Developed full-stack features using Node.js and SQL.
 - **Note**: Due to company confidentiality protocols, I cannot share source code, but I do have a **recommendation letter** from the CEO.
 ---
-## 🚀 Featured Projects on GitHub
-🔗 [My Portfolio](https://github.com/Moura4Design/my-portfolio)  
-🛒 [Shopping Cart App](https://github.com/Moura4Design/shopping-cart)  
-🎨 [Projecthub](https://github.com/Moura4Design/ProjectHub)  
-✨ *More projects available on my GitHub!*
----
 > “I build digital experiences that are intuitive, responsive, and delightful to use.”
 
 <!--
