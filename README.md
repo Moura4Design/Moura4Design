@@ -21,14 +21,6 @@ Frontend Developer with 5+ years of international experience. Specialized in Rea
 🎨 [Projecthub](https://github.com/Moura4Design/ProjectHub)  
 ✨ *More projects available on my GitHub!*
 ---
-## 📬 Contact
-- 📧 moura4design@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tania-moura)  
-- 🎨 [Behance](https://www.behance.net/Moura_design)  
-- 👩‍💻 [GitHub](https://github.com/Moura4Design)
-
----
-
 > “I build digital experiences that are intuitive, responsive, and delightful to use.”
 
 <!--
