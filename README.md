@@ -20,7 +20,6 @@ Originally from Portugal 🇵🇹, I spent several years working in the Netherla
 ### 🧭 Frontend Developer – VeiligWerk / SafetyFirst (Netherlands, 2020 - 2024)
 - Built responsive and user-friendly interfaces using React.js.
 - Integrated RESTful APIs for dynamic content and improved performance.
-- Worked closely with sales and engineering teams on product demos.
 - Developed full-stack features using Node.js and SQL.
 - **Note**: Due to company confidentiality protocols, I cannot share source code, but I do have a **recommendation letter** from the CEO.
 
