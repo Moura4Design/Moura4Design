@@ -1,5 +1,4 @@
 ## Hi, I'm Tânia Moura 👋
-
 Frontend Developer with 5+ years of international experience. Specialized in React.js, JavaScript, HTML/CSS, and API integrations.
 ---
 ## 🛠️ Tech Stack
