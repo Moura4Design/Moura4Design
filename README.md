@@ -1,42 +1,28 @@
 ## Hi, I'm Tânia Moura 👋
 
 **Frontend Developer** with over 5 years of international experience, focused on building modern, responsive, and user-centered web applications. I specialize in **React.js**, **JavaScript**, **HTML/CSS**, and API integration to enhance interactivity and performance.
-
-Originally from Portugal 🇵🇹, I spent several years working in the Netherlands 🇳🇱, collaborating with cross-functional teams in dynamic and demanding environments.
-
 ---
-
 ## 🛠️ Tech Stack
-
 - **Frontend**: React.js, JavaScript, HTML, CSS, Bootstrap
 - **Backend**: Node.js, Express.js, SQL, RESTful APIs
 - **Tools**: Git, GitHub, Bitbucket, Figma, VS Code
 - **Design**: Background in Industrial Design with strong UX sensibility
-
 ---
-
 ## 🌟 Professional Experience
-
 ### 🧭 Frontend Developer – VeiligWerk / SafetyFirst (Netherlands, 2020 - 2024)
 - Built responsive and user-friendly interfaces using React.js.
 - Integrated RESTful APIs for dynamic content and improved performance.
 - Developed full-stack features using Node.js and SQL.
 - **Note**: Due to company confidentiality protocols, I cannot share source code, but I do have a **recommendation letter** from the CEO.
-
 ---
-
 ## 🚀 Featured Projects on GitHub
-
 🔗 [My Portfolio](https://github.com/Moura4Design/my-portfolio)  
 🛒 [Shopping Cart App](https://github.com/Moura4Design/shopping-cart)  
 🎨 [Projecthub](https://github.com/Moura4Design/ProjectHub)  
 
 ✨ *More projects available on my GitHub!*
-
 ---
-
 ## 📬 Contact
-
 - 📧 moura4design@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tania-moura)  
 - 🎨 [Behance](https://www.behance.net/Moura_design)  
